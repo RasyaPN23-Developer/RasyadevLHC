@@ -232,10 +232,10 @@ Pesan plugin dapat disesuaikan pada bagian `messages` menggunakan format MiniMes
 
 RasyadevLHC didistribusikan sebagai plugin siap pakai. Repository ini berisi dokumentasi dan **tidak menyediakan source code**.
 
-- **Harga:** `[Isi harga produk]`
-- **Pembelian:** `[Isi tautan toko atau kontak]`
-- **Dukungan:** `[Isi Discord / kontak support]`
-- **Pembaruan dan ketentuan lisensi:** `[Isi ketentuan yang berlaku]`
+- **Harga:** `CHAT DI DISCORD`
+- **Pembelian:** `DISCORD`
+- **Dukungan:** `https://discord.gg/nMh2N9f7X`
+- **Pembaruan dan ketentuan lisensi:** `RasyaDEV`
 
 Sebelum membeli, pastikan server kamu memenuhi persyaratan versi. Sertakan versi Paper, versi Java, dan potongan error dari `logs/latest.log` ketika meminta bantuan teknis. Jangan mengirim seluruh folder server atau informasi rahasia.
 
